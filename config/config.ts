@@ -1,4 +1,4 @@
 export default {
-  base: '/zlnjxh',
+  base: '/zlnjxh/',
   publicPath: '/zlnjxh/',
 };
