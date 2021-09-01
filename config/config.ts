@@ -1,5 +1,5 @@
 export default {
-  base: 'cnzhihao.github.io/zlnjxh/',
-  publicPath: 'cnzhihao.github.io/zlnjxh/',
+  base: '/zlnjxh/',
+  publicPath: '/zlnjxh/',
   mode: 'site',
 };
