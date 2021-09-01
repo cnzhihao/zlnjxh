@@ -9,8 +9,3 @@ export default defineConfig({
   mode: 'site',
   // more config: https://d.umijs.org/config
 });
-
-export default {
-  base: '/zlnjxh/',
-  publicPath: '/zlnjxh/',
-};
