@@ -2,8 +2,8 @@ import { defineConfig } from 'dumi';
 
 export default defineConfig({
   title: '自律内卷协会',
-  favicon: './rocket.png',
-  logo: './rocket.png',
+  favicon: 'https://github.com/cnzhihao/zlnjxh/raw/main/images/rocket.png',
+  logo: 'https://github.com/cnzhihao/zlnjxh/raw/main/images/rocket.png',
   outputPath: 'docs-dist',
   mode: 'site',
   base: '/zlnjxh',
