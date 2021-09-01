@@ -1,5 +1,5 @@
 declare const _default: {
-  base: string;
-  publicPath: string;
+    base: string;
+    publicPath: string;
 };
 export default _default;
