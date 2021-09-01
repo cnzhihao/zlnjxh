@@ -6,5 +6,7 @@ declare const _default: {
             children: string[];
         }[];
     };
+    base: string;
+    publicPath: string;
 };
 export default _default;
