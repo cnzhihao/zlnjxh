@@ -8,6 +8,7 @@ export default defineConfig({
   mode: 'site',
   base: '/zlnjxh',
   publicPath: '/zlnjxh/',
+  styles: [`body { color: red; }`],
   navs: [
     {
       title: '加入我们',
