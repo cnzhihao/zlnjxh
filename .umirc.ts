@@ -2,7 +2,7 @@ import { defineConfig } from 'dumi';
 
 export default {
   base: '/zlnjxh',
-  publicPath: '/zlnjxh',
+  publicPath: '/zlnjxh/',
 };
 
 defineConfig({
